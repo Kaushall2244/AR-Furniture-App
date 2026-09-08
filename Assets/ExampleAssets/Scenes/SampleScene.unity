@@ -378,7 +378,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1a29deb6a6788240abbf1aa2d3b1074, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 5916503400735768192, guid: 2ecf59864b3ad904b82653021a968282,
+  furniture: {fileID: 1455513728565102611, guid: c171102bfec178447a98201efc1ed85c,
     type: 3}
 --- !u!4 &134804453
 Transform:
@@ -680,8 +680,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -0.0079536, y: 0}
-  m_SizeDelta: {x: 2094.6, y: 197.8}
+  m_AnchoredPosition: {x: -0.00016785, y: 0}
+  m_SizeDelta: {x: 2032.5, y: 197.8}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &452989673
 MonoBehaviour:
@@ -1159,7 +1159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d83cba5ceff547c40a28c8c1c93d0d57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 5916503400735768192, guid: 2ecf59864b3ad904b82653021a968282,
+  furniture: {fileID: 2222581109587537365, guid: 56ff4035ad0d66548bbe241d0b70ae16,
     type: 3}
 --- !u!1 &1793806949
 GameObject:
@@ -1295,7 +1295,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d83cba5ceff547c40a28c8c1c93d0d57, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  furniture: {fileID: 7162845340487657822, guid: 92c4f66a9ec9a9349b7446d0e0c979aa,
+  furniture: {fileID: 1455513728565102611, guid: c171102bfec178447a98201efc1ed85c,
     type: 3}
 --- !u!1 &1956214309
 GameObject:
@@ -1335,7 +1335,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 199.041, y: 173.868}
+  m_SizeDelta: {x: 199.04102, y: 173.868}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1956214311
 MonoBehaviour:
